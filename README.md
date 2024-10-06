@@ -3,6 +3,10 @@
 ## update to ubuntu20 ros noetic
 refrence from [link](https://blog.csdn.net/zardforever123/article/details/129042974)
 
+This project is for [https://github.com/Longxiaoze/2D-3D-pose-tracking](https://github.com/Longxiaoze/2D-3D-pose-tracking)
+
+
+
 ## A Robust and Versatile Monocular Visual-Inertial State Estimator
 
 
